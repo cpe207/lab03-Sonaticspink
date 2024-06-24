@@ -5,5 +5,5 @@
 
 [คลิกเพื่อดูรายละเอียดของแลป](https://o365cmu-my.sharepoint.com/:b:/g/personal/dome_potikanond_cmu_ac_th/Ee5eepPQUh5MoufXuw4s6dcBRaRyp7SPcgj09hTZWNq7aA?e=OK5xle)
 
-<strong>660610747 ชิตพันธ์ พะหงษา (Chittapan Phahongsa)</strong>
-<strong>GITHUB PAGE URL : https://cpe207.github.io/lab03-Sonaticspink/index.html </strong>
+<strong>660610747 ชิตพันธ์ พะหงษา (Chittapan Phahongsa) </strong>
+<strong><br>GITHUB PAGE URL : https://cpe207.github.io/lab03-Sonaticspink/index.html </strong>
